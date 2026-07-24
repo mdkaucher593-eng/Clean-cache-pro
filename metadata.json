@@ -1,0 +1,6 @@
+{
+  "name": "Cache Helper",
+  "description": "Utility app providing fast shortcuts to manage app storage and clear cache in Android Settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
